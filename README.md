@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yuvrajsingh1999y
+- 👋 Hi, I’m @junjarsingh
 - 👀 I’m interested in android app devloper
 - 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on android app
