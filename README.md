@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @junjarsingh
-- 👀 I’m interested in android app devloper
+- 👀 I’m interested in QA Automatation Testing / Manual Testing
 - 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on android app
 - 📫 How to reach me yuvrajsingh6792@gmail.com
